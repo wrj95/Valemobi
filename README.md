@@ -1,2 +1,2 @@
 # WRJcode
-My code for acces to who for reed
+My code for access to who for read
